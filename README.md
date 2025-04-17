@@ -8,3 +8,5 @@ Subsequently, given the vote contained in file.txt, the client-server communicat
 once the communication is finished, the vote has been stored in the mysql database.
 
 Finally, we can execute the counting.c script for the anonymization and counting of the votes present in the database.
+
+The project is just a base on which to build a real usable system. It is a prototype that definitely needs improvements.
